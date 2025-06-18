@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "316cf6dcbebe971f",
+    "type": "split",
+    "children": [
+      {
+        "id": "424b82ea65b596f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87849a4bcb2e07e7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d592689da75121ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a270cf5211a9eba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea3bfd85120dd5db",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d2bec6fe7e4aa3f6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2ce63a9e88f01357",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 244.5
+  },
+  "right": {
+    "id": "0a5aae6a6787e875",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0e89c31ff35caa9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "975ea7fcbbc802a9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "1fc1354d893dc550",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "9c3b4b28ad289f35",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a60fb55d139fe5f4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "87849a4bcb2e07e7",
+  "lastOpenFiles": [
+    "Ollama+OpenWebUI+nvidiaGPU 구성을 위한 Docker-Compose 작성법.md",
+    "Untitled/Workstation 서비스의 관련 요소 손상과 VirtualBox 의 연관성.md",
+    "Ollama + Open WebUI 컨테이너 구성을 위한 docker-compose.yml 작성 방법.md",
+    "Untitled/Windows 시스템 이미지 생성 실패 원인과 해결 과정.md",
+    "Untitled/Ubuntu 서버 로그인에 SSH 공개키 인증 방식 사용.md",
+    "Untitled/Ubuntu 서버 로그인에 OTP 기반 이중 인증 설정.md",
+    "Untitled/Ubuntu 서버로 SSH 접속 시 자동 메일 발송 설정.md",
+    "Templates/Default.md",
+    "Untitled/First Obsidian Post.md",
+    "Posts/2025-05-22 Ubuntu 서버 로그인에 이중 인증 설정.md",
+    "Posts/2025-05-16 GitHub Actions 프로젝트 빌드 워크플로우 작성법.md",
+    "Templates/Jekyll-Post.md",
+    "Untitled/Ubuntu 서버의 계정 비밀번호 변경 방법.md",
+    "Windows 시스템 이미지 생성 실패 원인과 해결 과정.md",
+    "First Obsidian Post.md",
+    "Workstation 서비스의 관련 요소 손상과 VirtualBox 의 연관성.md",
+    "Images/Pasted image 20250512100607.png",
+    "Images/Pasted image 20250512095139.png",
+    "Clippings/OpenAI API 사용법.md",
+    "Clippings/OpenAI API 사용법 1.md",
+    "Clippings",
+    "Untitled/Ubuntu 서버의 시간대 설정.md",
+    "Untitled/Docker 컨테이너 내부의 시간대를 호스트 시스템과 일치시키는 방법.md",
+    "Posts/First Obsidian Post.md",
+    "Posts",
+    "Untitled",
+    "Hello.md",
+    "Untitled 1111.md",
+    "Templates",
+    "Clippings/SQLite 공부하기 SQLite 설치하고 DB 만들기.md",
+    "Images",
+    "에러 코드.md",
+    "Test 2.md"
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "4528a0a7c23d7aa3",
+    "type": "split",
+    "children": [
+      {
+        "id": "e01fec0e0cf2abfc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cddcadf26c1de16f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/Build desktop Windows apps with the Windows App SDK - Windows apps.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Build desktop Windows apps with the Windows App SDK - Windows apps"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "77254a9b69681dd8",
+    "type": "split",
+    "children": [
+      {
+        "id": "f88bf4e89cf8b0bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ced763c26d76a589",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "38403350a81c2b0c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "763d45fef83dc356",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "954cfdabed577eb5",
+    "type": "split",
+    "children": [
+      {
+        "id": "85f7ac8996b7d4e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e30b29bc1a144bb2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "2ec1ae6fb302aa03",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "40fc5541486128e7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c006ccce28a9e41c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Clippings/obsidian download.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of obsidian download"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "cddcadf26c1de16f",
+  "lastOpenFiles": [
+    "Clippings/Get started with Windows development using WinUI - Windows apps.md",
+    "Clippings/Install tools for the Windows App SDK - Windows apps.md",
+    "Clippings/SQLite 공부하기 SQLite 설치하고 DB 만들기.md",
+    "Clippings/유니버설 Windows 플랫폼.md",
+    "Clippings/Build desktop Windows apps with the Windows App SDK - Windows apps.md",
+    "네이버 블로그.md",
+    "Clippings",
+    "Clippings/obsidian download.md",
+    "Untitled",
+    "Welcome.md"
+  ]
+}
